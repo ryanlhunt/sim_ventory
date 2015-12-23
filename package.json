@@ -1,14 +1,14 @@
 {
-  "name": "mean",
-  "description": "MEAN.io: A fullstack JavaScript framework powered by MongoDB, ExpressJS, AngularJS, NodeJS.",
-  "version": "0.5.5",
+  "name": "Simventory",
+  "description": "A simple inventory system for SIM Kits at Meyer Sound",
+  "version": "0.1",
   "private": false,
-  "author": "Linnovate <mean@linnovate.net>",
-  "contributors": "https://github.com/linnovate/mean/graphs/contributors",
+  "author": "Ryan Hunt <ryan@ryanlhunt.com>",
+  "contributors": "",
   "mean": "0.5.5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linnovate/mean.git"
+    "url": ""
   },
   "license": "MIT",
   "scripts": {
